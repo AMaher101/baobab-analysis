@@ -1,15 +1,14 @@
 # baobab-analysis
+Investigates potential mechanisms by which a fungal infection has been spreading and infecting baobab trees throughout southwest Madagascar. 
 
 ## Context
 
 Baobab trees in southwest Madagascar, natively called “Trees of Life,” have been vital to local communities for centuries, providing food, medicine, shelter, and various other resources. In recent times however, a fungal infection, exhibited as a “marary pattern” on the tree’s bark, has grown rampant across the region, resulting in increased tree mortality. 
 
-## Methods 
+## Methodology 
 
-- In the notebook labeled `baobab_questions.ipynb`, correlations between the extent of the exhibited marary pattern and biophysical variables offering insights into its dissemination were analyzed—such as tree height, circumference, surrounding vegetation, the extent of bark stripping (indicative of human interaction), soil type, and altitude.
-  - k
+- In the notebook labeled `baobab_questions.ipynb`, correlations between the extent of the exhibited marary pattern and biophysical variables offering insights into its dissemination were analyzed—such as tree height, circumference, surrounding vegetation, extent of bark stripping (indicative of human interaction), soil type, and altitude.
 - In the notebook labeled `baobab_plotter.ipynb`, spatial distributions among baobab trees throughout Fokontanies (local villages) and within more compact clusters were examined in addition to an analysis of surrounding ecological communities. 
-  - k
 
 ## Findings
 
