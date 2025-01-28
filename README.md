@@ -1,4 +1,4 @@
-# baobab-analysis
+# Baobab Tree Analysis
 Investigates potential mechanisms by which a fungal infection has been spreading and infecting baobab trees throughout southwest Madagascar. 
 
 ## Context
