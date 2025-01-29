@@ -12,7 +12,7 @@ Baobab trees in southwest Madagascar, natively called “Trees of Life,” have 
 
 ## Findings
 
-A significant association with soil type was found, revealing baobab trees in purely sand or sandy soil were less likely to display the marary pattern. Baobab trees with wider circumferences also correlated with greater amounts of the marary pattern. 
+A significant association with soil type was found, revealing baobab trees in purely sand or sandy soil were less likely to display the marary pattern. Baobab trees with wider circumferences also correlated with greater degrees of the marary pattern. 
 
 These results suggest that the fungal pathogen thrives in environments with higher moisture retention, which is more common in non-sandy soils. Wider-circumference trees are able to store more water in their trunks, providing an ideal environment for the pathogen, especially in soils that do not drain well. In contrast, sandy soils, which drain efficiently, likely prevent excess moisture from accumulating, reducing the conditions conducive to fungal growth.
 
